@@ -1,10 +1,10 @@
-- name: Hyunsol Do
+- name: Hyewon Gretta Geum
   bio: |
-    Web Frontend Engineer soldonii의 블로그입니다.
-  avatar: ./avatars/hyunsol.jpg
+    “People love what other people are passionate about. You remind them of what they’ve forgotten.” - La La Land
+  avatar: ./avatars/profile.jpeg
   featured: true
   social:
-    - url: https://github.com/soldonii
-    - url: https://instagram.com/soldonii
-    - url: https://www.linkedin.com/in/hyunsol-do-91058a189
+    - url: https://instagram.com/hyewonable
+    - url: https://www.facebook.com/hyewonable
+    - url: https://www.linkedin.com/in/hyewon-gretta-geum-744024115
 

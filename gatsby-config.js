@@ -1,25 +1,25 @@
 module.exports = {
   siteMetadata: {
-    title: `soldonii's blog`,
-    name: `soldonii`,
-    siteUrl: `https://soldonii.com`,
-    description: `Web Frontend Engineer soldonii의 블로그입니다.`,
+    title: `hyewonable.space`,
+    name: `hyewonable`,
+    siteUrl: `https://hyewonable.space`,
+    description: `에디터 금혜원의 공간입니다. Everything in her life screams meaningful moment.`,
     hero: {
       heading: ``,
       maxWidth: 652,
     },
     social: [
       {
-        name: `github`,
-        url: `https://github.com/soldonii`,
+        name: `instagram`,
+        url: `https://instagram.com/hyewonable`,
       },
       {
-        name: `instagram`,
-        url: `https://instagram.com/soldonii`,
+        name: `facebook`,
+        url: `https://www.facebook.com/hyewonable`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/in/hyunsol-do-91058a189`,
+        url: `https://www.linkedin.com/in/hyewon-gretta-geum-744024115`,
       },
     ],
   },
@@ -39,8 +39,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `soldonii's blog`,
-        short_name: `soldonii`,
+        name: `hyewonable's blog`,
+        short_name: `hyewonable`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
